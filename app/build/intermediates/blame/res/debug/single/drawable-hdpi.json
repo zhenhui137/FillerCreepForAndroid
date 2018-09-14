@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/afs/ualberta.ca/home/z/h/zhenhui/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/energy.png",
+        "source": "/afs/ualberta.ca/home/z/h/zhenhui/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/energy.png"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/z/h/zhenhui/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/afs/ualberta.ca/home/z/h/zhenhui/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/z/h/zhenhui/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/matter.png",
+        "source": "/afs/ualberta.ca/home/z/h/zhenhui/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/matter.png"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/z/h/zhenhui/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/dark_matter.png",
+        "source": "/afs/ualberta.ca/home/z/h/zhenhui/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/dark_matter.png"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/z/h/zhenhui/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/dark_energy.png",
+        "source": "/afs/ualberta.ca/home/z/h/zhenhui/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/dark_energy.png"
+    }
+]
